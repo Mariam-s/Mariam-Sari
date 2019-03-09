@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Profile - Mariam Sari
 
-You can use the [editor on GitHub](https://github.com/Mariam-s/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello and welcome to my profile! 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
