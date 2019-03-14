@@ -1,6 +1,6 @@
 # **My name is Mariam Sari. Welcome to my profile!**
    
-**Student Number: 3776750        |               Email: s3776750@student.rmit.edu.au**
+Student Number: 3776750        |               Email: s3776750@student.rmit.edu.au
 
 ## **BACKGROUND**
 
