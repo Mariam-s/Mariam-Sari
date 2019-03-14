@@ -2,13 +2,15 @@
 
 **Student Number: 3776750                       Email: s3776750@student.rmit.edu.au**
 
-##**BACKGROUND**
+## **BACKGROUND**
 
-I'm going to start by listing some facts about what I like. I am a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$. I also listen to heaps of music preferably rock, metal and the occasional rap.
+I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. 
+I'm going to start by listing some facts about what I like. I am a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$. I also listen to heaps of other random music preferably rock, metal and the occasional rap.
 
 **My interests in IT**
 
 
+   
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
