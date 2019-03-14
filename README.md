@@ -1,5 +1,5 @@
 # **My name is Mariam Sari. Welcome to my profile!**
- <a href="https://githubcom/Mariam-s/MariamSari/master/README.md" class="btn">BACKGROUND<a/>
+ <a href="https://mariam-s.github.io/MariamSari/" class="btn">BACKGROUND<a/>
   
 Student Number: 3776750        |               Email: s3776750@student.rmit.edu.au
 
