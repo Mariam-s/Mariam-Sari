@@ -1,9 +1,8 @@
-# Profile - Mariam Sari
-Student Number: 3776750
+# **Hello, my name is Mariam Sari and welcome to my profile!**
+**Student Number: 3776750                       Email: s3776750@student.rmit.edu.au**
 
-**Hello and welcome to my profile!**
 
-I'm going to start by listing some facts that may or not be interesting to you. I am a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$. I also listen to heaps and heaps of music. 
+I'm going to start by listing some facts that may or not be interesting to you. I am a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$. I also listen to heaps and heaps of music preferably rock, metal and the occasional rap music. 
 
 **My interests in IT**
 
