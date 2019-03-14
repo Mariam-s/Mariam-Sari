@@ -4,8 +4,7 @@
 
 ## **BACKGROUND**
 
-I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. 
-I'm going to start by listing some facts about what I like. I am a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$. I also listen to heaps of other random music preferably rock, metal and the occasional rap.
+I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock, metal and the occasional rap. I guess it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff. I also have an adorable *cough cough*  Ragdoll kitty who's named Caesar after Julius Caesar. :smile: 
 
 **My interests in IT**
 
