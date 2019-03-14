@@ -4,7 +4,7 @@
 
 ##**BACKGROUND**
 
-I'm going to start by listing some facts that may or not be interesting to you. I am a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$. I also listen to heaps and heaps of music preferably rock, metal and the occasional rap music. 
+I'm going to start by listing some facts about what I like. I am a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$. I also listen to heaps of music preferably rock, metal and the occasional rap.
 
 **My interests in IT**
 
