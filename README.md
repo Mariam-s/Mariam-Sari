@@ -24,8 +24,7 @@ My ideal job is
 
 ![Account Manager 1](https://user-images.githubusercontent.com/48013177/54404855-e6536600-4728-11e9-970d-32f212e6a58b.png)
 
-
-
+![Account Manager 2](https://user-images.githubusercontent.com/48013177/54404905-084ce880-4729-11e9-9ba4-a6b7ccd54cbe.png)
 
 https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-046fcf690d9b&type=promoted
 
