@@ -20,7 +20,7 @@ As mentioned above, I'm currently undertaking Intro to IT as well as Intro to Pr
 
 ## **IDEAL JOB**
 
-My ideal job is 
+My ideal job is
 
 ![Screen Shot 2019-03-15 at 10.41.04 am](image.png)
 
