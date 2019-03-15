@@ -20,8 +20,11 @@ As mentioned above, I'm currently undertaking Intro to IT as well as Intro to Pr
 
 ## **Ideal Job**
 
-My ideal job is something that 
+My ideal job is 
+
 ![Screen Shot 2019-03-15 at 10.41.04 am](image.png)
+
 ![Screen Shot 2019-03-15 at 10.41.14 am](image.png)
+
 https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-046fcf690d9b&type=promoted
 
