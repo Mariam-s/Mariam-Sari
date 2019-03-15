@@ -20,11 +20,25 @@ As mentioned above, I'm currently undertaking Intro to IT as well as Intro to Pr
 
 ## **IDEAL JOB**
 
-My ideal job is
+My ideal job is one where I would be able to interact people and assist them with all their IT needs. For that, I will require specific knowledge and experience. The reason this job appealed to me was because i'd like to do something that requires helping customers whether it be helping with devices phyically or over the phone. This job requires strong knowledge and experience regarding complex IT solutions as well as experience in dealing with customers, which I have. Skills that are required in this job, that I do have are strong written and verbal consulting skills. The way I hope to achive the skills required for jobs like this is to continue on with the Bachelor of IT and hope to learn all the necessary skills along the way as well as practice some extra things outside of uni life. 
+
+
 
 ![Account Manager 1](https://user-images.githubusercontent.com/48013177/54404855-e6536600-4728-11e9-970d-32f212e6a58b.png)
 
 ![Account Manager 2](https://user-images.githubusercontent.com/48013177/54404905-084ce880-4729-11e9-9ba4-a6b7ccd54cbe.png)
 
 https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-046fcf690d9b&type=promoted
+
+
+## **PERSONAL PROFILE**
+
+
+
+
+
+
+
+
+
 
