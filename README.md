@@ -4,7 +4,7 @@ Student Number: 3776750        |               Email: s3776750@student.rmit.edu.
 
 ## **BACKGROUND**
 
-I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock, metal and the occasional rap. I guess it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff. I also have an adorable *cough cough* (not really though he's a little it odd :o) Ragdoll kitty who's named Caesar after Julius Caesar.  
+I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock, metal and the occasional rap. I guess it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff. I also have an adorable *cough cough* (not really though he's a little bit odd :o) Ragdoll kitty who's named Caesar after Julius Caesar.  
 
 ## **INTEREST IN IT** 
 
@@ -20,9 +20,9 @@ As mentioned above, I'm currently undertaking Intro to IT as well as Intro to Pr
 
 ## **IDEAL JOB**
 
-My ideal job is one where I would be able to interact people and assist them with all their IT needs. For that, I will require specific knowledge and experience. The reason this job appealed to me was because i'd like to do something that requires helping customers whether it be helping with devices phyically or over the phone. This job requires strong knowledge and experience regarding complex IT solutions as well as experience in dealing with customers, which I have. Skills that are required in this job, that I do have are strong written and verbal consulting skills. The way I hope to achive the skills required for jobs like this is to continue on with the Bachelor of IT and hope to learn all the necessary skills along the way as well as practice some extra things outside of uni life. 
+My ideal job is one where I would be able to interact people and assist them with all their IT needs. For that, I will require specific knowledge and experience. The reason this job appealed to me was because i'd like to do something that requires helping customers whether it be helping with devices phyically or over the phone. This job requires strong knowledge and experience regarding complex IT solutions as well as experience in dealing with customers, which I have. Skills that are required in this job that I do have are strong written and verbal consulting/communication skills. The way I hope to achive the skills required for jobs like this is to continue on with the Bachelor of IT and hope to learn all the necessary skills along the way as well as practice some extra things outside of uni life. 
 
-
+### **JOB SNIPPETS**
 
 ![Account Manager 1](https://user-images.githubusercontent.com/48013177/54404855-e6536600-4728-11e9-970d-32f212e6a58b.png)
 
