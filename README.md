@@ -33,6 +33,13 @@ https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-
 
 ## **PERSONAL PROFILE**
 
+**Myers-Briggs Results**
+
+![Myers-Briggs Results](https://user-images.githubusercontent.com/48013177/54416354-39421300-4753-11e9-9656-b2e0f9695aa5.png)
+
+**Online learning-style test results**
+
+
 
 
 
