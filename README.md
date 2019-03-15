@@ -39,6 +39,11 @@ https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-
 
 **Online learning-style test results**
 
+![Learning style test](https://user-images.githubusercontent.com/48013177/54416669-30057600-4754-11e9-9997-c4779ae3a59f.png)
+
+**Other online test**
+
+
 
 
 
