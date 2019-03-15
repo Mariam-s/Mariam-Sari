@@ -22,9 +22,10 @@ As mentioned above, I'm currently undertaking Intro to IT as well as Intro to Pr
 
 My ideal job is
 
-![](image.png)
+![Account Manager 1](https://user-images.githubusercontent.com/48013177/54404855-e6536600-4728-11e9-970d-32f212e6a58b.png)
 
-![](image.png)
+
+
 
 https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-046fcf690d9b&type=promoted
 
