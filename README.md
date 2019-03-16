@@ -4,15 +4,15 @@ Student Number: 3776750        |               Email: s3776750@student.rmit.edu.
 
 ## **BACKGROUND**
 
-I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock, metal and the occasional horrorcore/underground rap. I suppose it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff (people low-key think I listen to that "typical millenial music" :grimacing:). I also have an interesting Ragdoll kitty who's named Caesar after Julius Caesar.  
+I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock and the occasional horrorcore/underground rap. I suppose it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff (people low-key think I listen to that "typical millenial music"). I also have an interesting Ragdoll kitty who we've named Caesar after Julius Caesar for no apparent reason. 
 
 ## **INTEREST IN IT** 
 
-My interest in IT is basically everything to do with IT, there's no specific part I like more. The things that pushed me to pursue IT were the freinds I hung out with when I was in school. They all had a particular interest in IT and I guess you could say they influenced me. I don't have any BIG IT experience apart from the fact that I am the go-to person at home for all the family's IT needs, but I am enrolled in this course as well as *Introduction to Programming* so I can develop my skills and hopefully learn more about IT and use it with confidence c:. 
+My interest in IT is basically everything to do with IT, there's no specific part I like more. The things that pushed me to pursue IT were the friends I hung out with when I was in school. They all had a particular interest in IT and I guess you could say they greatly influenced and introduced me to this amazing subject. I don't have any spectacular IT experience apart from the fact that I am the go-to person at home for all the family's IT needs, but I am enrolled in this course as well as *Introduction to Programming* so I can develop my skills and hopefully learn more about IT and use it with confidence c:. 
 
 **Why did you choose to come to RMIT?**
 
-I chose to be an RMIT student because it has the degree I want to study. It is also very accomodating for me because it offers online study. It's true that I don't reside in Melbourne but RMIT has enabled me to study and be able to work. RMIT was also offered through OUA which I applied through and I guess I found it more appealing than the other universities. 
+I chose to be an RMIT student because it has the degree I want to study in the way I wish for it to be delivered. RMIT has enabled me to study and be able to work. RMIT was also offered through OUA which I applied through and I guess I found it more appealing than the other universities. 
 
 **What do you expect to learn during your studies?**
 
@@ -45,7 +45,7 @@ https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-
 
 ![other test result](https://user-images.githubusercontent.com/48013177/54417348-051c2180-4756-11e9-9bab-5d9f393c53ad.png)
 
-The results for these tests allowed me to reflect on myself better and the type of person I am. I think that the test results clearly display what I need to improve on and what I can work off. These results may influence my behaviour in a team by allowing me to reflect on what I'm doing and implement the information present in the scores, with my interaction with other people. When forming a team, I should consider the possible outcomes/consequences I may face if I make a wrong decision or make a decision not fit for me. I also should try finding people with different a personality and different attributes to me in order for us to effectively communicate whilst learning and teaching each other new skills.
+The results for these tests allowed me to reflect on myself better and the type of person I am. I think that the test results clearly display what I need to improve on and what I can work off. These results may influence my behaviour in a team by allowing me to reflect on what I'm doing and implement the information present in the scores, with my interaction with other people. When forming a team, I should consider the possible outcomes/consequences I may face if I make a wrong decision or make a decision not fit for me. I also should try finding people with a different personality and different attributes to me in order for us to effectively communicate whilst learning and teaching each other new skills.
 
 
 
