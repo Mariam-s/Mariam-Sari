@@ -48,7 +48,7 @@ https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-
 
 
 
-<style='text-align:center"># **PROJECT IDEA**<
+<p class="text-center"><!--# **PROJECT IDEA**<  --></p>
 
 **OVERVIEW**
 
