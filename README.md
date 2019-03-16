@@ -60,6 +60,14 @@ My project will be about actually making flying cars rather than just reading ab
 
 I suppose my motivation for this project came from the many times I’ve been stuck in traffic and got super annoyed to the point where I wished that flying cars were actually existent. This project will definitely be interesting because it’s a flying car! I mean who doesn’t want a flying car? Ron Weasley, thanks for the idea! This will be very useful to everyone as it will allow people to travel quicker and more efficiently without having to get caught in traffic on the way to work or wherever else they may be heading. Also, there are roof parkings for a reason, so why not use them for flying cars hmm?
 
+**GENERAL DESCRIPTION**
+
+The flying car is a modern method of transportaion that requires either specific training or an experienced pilot to fly it. There are positives and negatives as there is in almost everything in the world. So naturally, the issues need to be addressed. The positives outweight the negatives of this project, postives being the efficiency of the flying car and the many 
+
+** 
+About how the car generally functions and how the features add to its glory
+** 
+
 **DESCRIPTION - FEATURES**
 
 The features of this product includes:
@@ -69,24 +77,33 @@ The features of this product includes:
 -	Safety systems that include three rear view mirrors in drive mode and improved seatbelts for extra security whilst in drive or flight mode. 
 -	Rotary engine for ultimate performance paired with the Hybrid-Electric motor. 
 -	Automatic windscreen wipers with rain sensor
-
-
+-	ABS brakes to prevent the wheels on the car from sliding and could potentially prevent many accidents. 
+-	Automatic lock for enhanced security 
+-	Bluetooth connections
+-	Reverse camera 
+- Built-in subwoofers and speaker system
+- Built-in camera on the windscreen to detect suspicious movment while the car is parked as well as record live road/air situations. 
+- Automatic light sensors 
+- LED Headlights 72W 6600LM COB
+- Key-less ignition
 
 **TOOLS/TECH**
 
-The tools and tech that are present in the flying car, are split into two catergories: hardware and software. The hardware for this flying car is the engine. The flying car uses a rotary engine as well as a Hybrid-Electric motor for that modern,  advanced and futuristic feel. The software present would be facial and voice recognition which have components of Artificial Intelligence, tools to detect the facial fetures of the driver for extra security. 
-
-
+The tools and tech that are present in the flying car, are split into two categories: hardware and software. The hardware for this flying car is the engine. The flying car uses a rotary engine as well as a Hybrid-Electric motor for that modern, advanced and futuristic feel. The software present would be facial and voice recognition which have components of Artificial Intelligence, tools to detect the facial features of the driver for extra security. 
 
 **SKILLS REQUIRED**
 
-Some of the skills needed for this project to work is obviously flight exerience. Another skill needed would be the ability to control the voice activated intelligent system that utilises AI. The most common software used to write the code for voice and facial recognition include: JAVA, C# and Perl. 
+Some of the skills needed for this project to work is obviously flight experience. Another skill needed would be the ability to control the voice activated intelligence system that utilises AI. The most common software used to write the code for voice and facial recognition include: Python, MATLAB, C++, PHP, JAVA, C# and Perl. 
 
-Being able to find the software and hardware components may not be easy, the same way it is not easy to find someone who is able to program the car. The feasibility of the skills is not very high but it is not impossible. 
+Being able to find the software and hardware components may not be easy, the same way it is not easy to find someone who has the experience to be able to program the car. The feasibility of the skills is not very high but it is not impossible. 
+
+**STATISTICS**
+
+In 2017, a survey was conducted in an American University (University of Michigan) on their preferences for flying cars. The results show that almost half are ready to use and travel by air in the car. Out of the 508 adults that were asked, 221 showed a lot of interest in a self-driving car. Though, the majority of people in all age groups that were asked, voted to let the robot driver take them to the places whereas only 81 said that they were interesting in a flying taxi that woulf be driven by a qualified and license pilot. 
 
 **OUTCOME**
 
-
+The outcome of creating this car is it will make getting places easier. This product will 
 
 
 
@@ -102,4 +119,6 @@ https://generalaviationnews.com/2018/07/17/new-features-unveiled-for-flying-car/
 https://www.entrepreneur.com/article/293167
 https://auto.howstuffworks.com/flying-car2.htm
 https://www.freelancinggig.com/blog/2017/09/19/best-programming-language-voice-recognition/
+https://www.quora.com/Which-programming-language-is-used-for-the-face-recognition-system
+https://qz.com/962505/survey-finds-most-americans-are-ready-to-use-flying-cars-but-prefer-autonomous-vehicles-that-drive-themselves/
 
