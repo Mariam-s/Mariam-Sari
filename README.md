@@ -45,6 +45,8 @@ https://www.seek.com.au/job/38366519?searchrequesttoken=5ffda0a6-8b0e-452c-b5cd-
 
 ![other test result](https://user-images.githubusercontent.com/48013177/54417348-051c2180-4756-11e9-9bab-5d9f393c53ad.png)
 
+The results for these tests allowed me to reflect on myself better and the type of person I am. I think that the test results clearly display what I need to improve on and what I can work off. These results may influence my behaviour in a team by allowing me to reflect on what I'm doing and implement the information present in the scores, with my interaction with other people. When forming a team, I should consider the possible outcomes/consequences I may face if I make a wrong decision or make a decision not fit for me. I also should try finding people with different a personality and different attributes to me in order for us to effectively communicate whilst learning and teaching each other new skills.
+
 
 
 
