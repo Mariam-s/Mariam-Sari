@@ -54,7 +54,7 @@ The results for these tests allowed me to reflect on myself better and the type 
 
 **OVERVIEW**
 
-
+My project will be about actually making flying cars rather than just reading about people’s plans on “reaching production status”. This project will require a lot of gravity defiant studies and research. The purpose of this project, is to be able to familiarise myself with tools and new tech that may be present in the discussion and creation of the Flying Car. Of course, if I was ever to actually manufacture a flying car, I wouldn’t make it as expensive as the estimated or fixed prices are. I’d make it affordable enough so that whoever is able to get it, will be able to. 
 
 **MOTIVATION**
 
