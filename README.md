@@ -4,15 +4,15 @@ Student Number: 3776750        |               Email: s3776750@student.rmit.edu.
 
 ## **BACKGROUND**
 
-I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock, metal and the occasional rap. I guess it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff. I also have an adorable *cough cough* (not really though he's a little bit odd :o) Ragdoll kitty who's named Caesar after Julius Caesar.  
+I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock, metal and the occasional horrorcore/underground rap. I suppose it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff (people low-key think I listen to that "typical millenial music" :grimacing:). I also have an interesting Ragdoll kitty who's named Caesar after Julius Caesar.  
 
 ## **INTEREST IN IT** 
 
-My interest in IT is basically everything to do with IT, there's no specific part I like more. The things that pushed me to pursue IT were the freinds I hung out with when I was in school. They all had a particular interest in IT and I guess you could say they influenced me. I don't have any particular IT experience but I am enrolled in this course as well as *Introduction to Programming* so I can develop my skills and hopefully learn more about IT. 
+My interest in IT is basically everything to do with IT, there's no specific part I like more. The things that pushed me to pursue IT were the freinds I hung out with when I was in school. They all had a particular interest in IT and I guess you could say they influenced me. I don't have any BIG IT experience apart from the fact that I am the go-to person at home for all the family's IT needs, but I am enrolled in this course as well as *Introduction to Programming* so I can develop my skills and hopefully learn more about IT and use it with confidence c:. 
 
 **Why did you choose to come to RMIT?**
 
-I chose to be an RMIT student because it has the degree I want to study. It is also very accomodating for me because it offers online study. It's true that I don't reside in Melbourne but RMIT has enabled me to study and be able to work.
+I chose to be an RMIT student because it has the degree I want to study. It is also very accomodating for me because it offers online study. It's true that I don't reside in Melbourne but RMIT has enabled me to study and be able to work. RMIT was also offered through OUA which I applied through and I guess I found it more appealing than the other universities. 
 
 **What do you expect to learn during your studies?**
 
@@ -20,7 +20,7 @@ As mentioned above, I'm currently undertaking Intro to IT as well as Intro to Pr
 
 ## **IDEAL JOB**
 
-My ideal job is one where I would be able to interact people and assist them with all their IT needs. For that, I will require specific knowledge and experience. The reason this job appealed to me was because i'd like to do something that requires helping customers whether it be helping with devices phyically or over the phone. This job requires strong knowledge and experience regarding complex IT solutions as well as experience in dealing with customers, which I have. Skills that are required in this job that I do have are strong written and verbal consulting/communication skills. The way I hope to achive the skills required for jobs like this is to continue on with the Bachelor of IT and hope to learn all the necessary skills along the way as well as practice some extra things outside of uni life. 
+My ideal job is one where I would be able to manage and interact with people and assist them with all their IT needs. For that, I will require specific knowledge and experience. The reason this job appealed to me was because i'd like to do something that requires helping customers whether it be helping with devices physically or over the phone. This job requires strong knowledge and experience regarding complex IT solutions as well as experience in dealing with customers. Skills that are required in this job that I do have are strong written and verbal consulting/communication skills as well as experience in dealing with customers. The way I hope to achive the skills required for jobs like this is to continue on with the Bachelor of IT and hope to learn all the necessary skills along the way as well as practice some extra things outside of uni life. Other ways I can ready myself for a job like this would be to be as open minded and as innovative as possible in order for me to fully understand customers as well as be able to work efficiently.
 
 ### **JOB SNIPPETS**
 
