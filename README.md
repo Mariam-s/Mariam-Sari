@@ -12,7 +12,7 @@ My interest in IT is basically everything to do with IT, there's no specific par
 
 **Why did you choose to come to RMIT?**
 
-I chose to be an RMIT student because it has the degree I want to study in the way I wish for it to be delivered. RMIT has enabled me to study and be able to work. RMIT was also offered through OUA which I applied through and I guess I found it more appealing than the other universities. 
+I chose to be an RMIT student because it has the degree I want to study in the way I wish for it to be delivered. RMIT has enabled me to study and be able to work at the same time, which is very accommodating for me. RMIT was also offered through OUA which I applied through and I guess I found it more appealing than the other universities. 
 
 **What do you expect to learn during your studies?**
 
@@ -50,7 +50,7 @@ The results for these tests allowed me to reflect on myself better and the type 
 
 
 
-#**PROJECT IDEA**
+# **PROJECT IDEA**
 
 **OVERVIEW**
 
@@ -59,6 +59,17 @@ The results for these tests allowed me to reflect on myself better and the type 
 **MOTIVATION**
 
 I suppose my motivation for this project came from the many times I’ve been stuck in traffic and got super annoyed to the point where I wished that flying cars were actually existent. This project will definitely be interesting because it’s a flying car! I mean who doesn’t want a flying car? Ron Weasley, thanks for the idea! This will be very useful to everyone as it will allow people to travel quicker and more efficiently without having to get caught in traffic on the way to work or wherever else they may be heading. Also, there are roof parkings for a reason, so why not use them for flying cars hmm?
+
+**DESCRIPTION**
+
+
+**TOOLS/TECH**
+
+
+**SKILS REQUIRED**
+
+
+**OUTCOME**
 
 
 
