@@ -60,14 +60,29 @@ My project will be about actually making flying cars rather than just reading ab
 
 I suppose my motivation for this project came from the many times I’ve been stuck in traffic and got super annoyed to the point where I wished that flying cars were actually existent. This project will definitely be interesting because it’s a flying car! I mean who doesn’t want a flying car? Ron Weasley, thanks for the idea! This will be very useful to everyone as it will allow people to travel quicker and more efficiently without having to get caught in traffic on the way to work or wherever else they may be heading. Also, there are roof parkings for a reason, so why not use them for flying cars hmm?
 
-**DESCRIPTION**
+**DESCRIPTION - FEATURES**
+
+The features of this product includes:
+-	A Hybrid-Electric motor which uses an internal combustion engine and a lithium iron phosphate battery which is scientifically proven to be safer than other lithium batteries. 
+-	The car also has a built in, voice activated, hands free navigation system for easy and safe use as well as a boost. The throttle integrates the boost feature for an exciting burst of extra power whilst flying. 
+-	Full frame parachute which assists the plane to land safely if a system failure occurs and the plane stops functioning
+-	Safety systems that include three rear view mirrors in drive mode and improved seatbelts for extra security whilst in drive or flight mode. 
+-	Rotary engine for ultimate performance paired with the Hybrid-Electric motor. 
+-	Automatic windscreen wipers with rain sensor
+
 
 
 **TOOLS/TECH**
 
+The tools and tech that are present in the flying car, are split into two catergories: hardware and software. The hardware for this flying car is the engine. The flying car uses a rotary engine as well as a Hybrid-Electric motor for that modern,  advanced and futuristic feel. The software present would be facial and voice recognition which have components of Artificial Intelligence, tools to detect the facial fetures of the driver for extra security. 
 
-**SKILS REQUIRED**
 
+
+**SKILLS REQUIRED**
+
+Some of the skills needed for this project to work is obviously flight exerience. Another skill needed would be the ability to control the voice activated intelligent system that utilises AI. The most common software used to write the code for voice and facial recognition include: JAVA, C# and Perl. 
+
+Being able to find the software and hardware components may not be easy, the same way it is not easy to find someone who is able to program the car. The feasibility of the skills is not very high but it is not impossible. 
 
 **OUTCOME**
 
@@ -82,5 +97,9 @@ I suppose my motivation for this project came from the many times I’ve been st
 
 
 **BIBLIOGRAPHY:**
+
 https://generalaviationnews.com/2018/07/17/new-features-unveiled-for-flying-car/
+https://www.entrepreneur.com/article/293167
+https://auto.howstuffworks.com/flying-car2.htm
+https://www.freelancinggig.com/blog/2017/09/19/best-programming-language-voice-recognition/
 
