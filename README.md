@@ -62,7 +62,7 @@ I suppose my motivation for this project came from the many times I’ve been st
 
 **GENERAL DESCRIPTION**
 
-The flying car is a modern method of transportaion that requires either specific training or an experienced pilot to fly it. There are positives and negatives as there is in almost everything in the world. So naturally, the issues need to be addressed. The positives outweight the negatives of this project, postives being the efficiency of the flying car and the many advanced features is has. The flying car will be a relaibale and common method of transportaion in a few years time due to the fact that it is a preferred method among many people. I know I would prefer a flying car any day! There are still so many positives aspects of the flying car, especially the Hybrid-Electric motor which is very environmentally friendly and fuel efficient. The voice and facial recognition are probably one of the best features of the car purely because they provide an immense amount of security so that only one person can get in and out of the car. The negatives of the car is that floating or holographic traffic lights and signals have not yet been created so the sky may be chaotic. Also, the care requires a lot of space for take-off. The car will have the best quality tints on the window and also paint colour of the drivers choice. Flight mode will be enabled when there is a clear and straight road and will require a great speed in order for a smooth lift off. 
+The flying car is a modern method of transportation that requires either specific training or an experienced pilot to fly it. There are positives and negatives as there is in almost everything in the world. So naturally, the issues need to be addressed. The positives outweigh the negatives of this project, positives being the efficiency of the flying car and the many advanced features it has. The flying car will be a relaibale and common method of transportation in a few years' time due to the fact that it is a preferred method among many people. I know I would prefer a flying car any day! There are still so many positives aspects of the flying car, especially the Hybrid-Electric motor which is very environmentally friendly and fuel efficient. The voice and facial recognition are probably one of the best features of the car purely because they provide an immense amount of security so that only one person can get in and out of the car. The negatives of the car is that floating or holographic traffic lights and signals have not yet been created so the sky may be chaotic. Also, the care requires a lot of space for take-off. The car will have the best quality tints on the window and also paint colour of the driver's choice. Flight mode will be enabled when there is a clear and straight road and will require a great speed in order for a smooth lift off. 
 
 **DESCRIPTION - FEATURES**
 
@@ -78,13 +78,13 @@ The features of this product includes:
 -	Bluetooth connections
 -	Reverse camera 
 - Built-in subwoofers and speaker system
-- Built-in camera on the windscreen to detect suspicious movment while the car is parked as well as record live road/air situations. 
+- Built-in camera on the windscreen to detect suspicious movement while the car is parked as well as record live road/air situations. 
 - Automatic light sensors 
 - LED Headlights 72W 6600LM COB
 - Key-less ignition
 - Top of the range leather seats 
 - Automatic windows
-- Glossy/matte paint finsih
+- Glossy/matte paint finish
 - Tinted windows
 
 **TOOLS/TECH**
@@ -99,11 +99,11 @@ Being able to find the software and hardware components may not be easy, the sam
 
 **STATISTICS**
 
-In 2017, a survey was conducted in an American University (University of Michigan) on their preferences for flying cars. The results show that almost half are ready to use and travel by air in the car. Out of the 508 adults that were asked, 221 showed a lot of interest in a self-driving car. Though, the majority of people in all age groups that were asked, voted to let the robot driver take them to the places whereas only 81 said that they were interesting in a flying taxi that woulf be driven by a qualified and license pilot. 
+In 2017, a survey was conducted in an American University (University of Michigan) on their preferences for flying cars. The results show that almost half are ready to use and travel by air in the car. Out of the 508 adults that were asked, 221 showed a lot of interest in a self-driving car. Though, the majority of people in all age groups that were asked, voted to let the robot driver take them to the places whereas only 81 said that they were interesting in a flying taxi that would be driven by a qualified and license pilot. 
 
 **OUTCOME**
 
-If this project is successful, the outcome will be a more efficient mehtod of transportation and a definitely safer way that it is currently. This product will be the future of cars and hopefully inspire some greater inventions or perhaps inspire the idea of inventing a hybrid train or bus. This development will impact society greatly due to the advanced and innovative idea of making flying transport other than an airplane or helicopter. I think that this development has the potential to change lives for good whether it be now or 20 years from now, people will be grateful for flying cars.
+If this project is successful, the outcome will be a more efficient method of transportation and a definitely safer way that it is currently. This product will be the future of cars and hopefully inspire some greater inventions or perhaps inspire the idea of inventing a hybrid train or bus. This development will impact society greatly due to the advanced and innovative idea of making flying transport other than an airplane or helicopter. I think that this development has the potential to change lives for good whether it be now or 20 years from now, people will be grateful for flying cars.
 
 **BIBLIOGRAPHY:**
 
