@@ -99,7 +99,7 @@ Being able to find the software and hardware components may not be easy, the sam
 
 **STATISTICS**
 
-In 2017, a survey was conducted in an American University (University of Michigan) on their preferences for flying cars. The results show that almost half are ready to use and travel by air in the car. Out of the 508 adults that were asked, 221 showed a lot of interest in a self-driving car. Though, the majority of people in all age groups that were asked, voted to let the robot driver take them to the places whereas only 81 said that they were interesting in a flying taxi that would be driven by a qualified and license pilot. 
+In 2017, a survey was conducted in an American University (University of Michigan) on their preferences for flying cars. The results show that almost half are ready to use and travel by air in the car. Out of the 508 adults that were asked, 221 showed a lot of interest in a self-driving car. Though, the majority of people in all age groups that were asked, voted to let the robot driver take them to the places whereas only 81 said that they were interesting in a flying taxi that would be driven by a qualified and licensed pilot. 
 
 **OUTCOME**
 
