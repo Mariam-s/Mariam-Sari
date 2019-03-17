@@ -62,11 +62,7 @@ I suppose my motivation for this project came from the many times I’ve been st
 
 **GENERAL DESCRIPTION**
 
-The flying car is a modern method of transportaion that requires either specific training or an experienced pilot to fly it. There are positives and negatives as there is in almost everything in the world. So naturally, the issues need to be addressed. The positives outweight the negatives of this project, postives being the efficiency of the flying car and the many 
-
-** 
-About how the car generally functions and how the features add to its glory
-** 
+The flying car is a modern method of transportaion that requires either specific training or an experienced pilot to fly it. There are positives and negatives as there is in almost everything in the world. So naturally, the issues need to be addressed. The positives outweight the negatives of this project, postives being the efficiency of the flying car and the many advanced features is has. The flying car will be a relaibale and common method of transportaion in a few years time due to the fact that it is a preferred method among many people. I know I would prefer a flying car any day! There are still so many positives aspects of the flying car, especially the Hybrid-Electric motor which is very environmentally friendly and fuel efficient. The voice and facial recognition are probably one of the best features of the car purely because they provide an immense amount of security so that only one person can get in and out of the car. The negatives of the car is that floating or holographic traffic lights and signals have not yet been created so the sky may be chaotic. Also, the care requires a lot of space for take-off. The car will have the best quality tints on the window and also paint colour of the drivers choice. Flight mode will be enabled when there is a clear and straight road and will require a great speed in order for a smooth lift off. 
 
 **DESCRIPTION - FEATURES**
 
@@ -86,6 +82,10 @@ The features of this product includes:
 - Automatic light sensors 
 - LED Headlights 72W 6600LM COB
 - Key-less ignition
+- Top of the range leather seats 
+- Automatic windows
+- Glossy/matte paint finsih
+- Tinted windows
 
 **TOOLS/TECH**
 
@@ -103,15 +103,7 @@ In 2017, a survey was conducted in an American University (University of Michiga
 
 **OUTCOME**
 
-The outcome of creating this car is it will make getting places easier. This product will 
-
-
-
-
-
-
-
-
+If this project is successful, the outcome will be a more efficient mehtod of transportation and a definitely safer way that it is currently. This product will be the future of cars and hopefully inspire some greater inventions or perhaps inspire the idea of inventing a hybrid train or bus. This development will impact society greatly due to the advanced and innovative idea of making flying transport other than an airplane or helicopter. I think that this development has the potential to change lives for good whether it be now or 20 years from now, people will be grateful for flying cars.
 
 **BIBLIOGRAPHY:**
 
