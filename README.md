@@ -4,7 +4,7 @@ Student Number: 3776750        |               Email: s3776750@student.rmit.edu.
 
 ## **BACKGROUND**
 
-I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I'm a huge fan of I Prevail, Bring Me The Horizon, Rage Against the Machine, Of Mice & Men and $uicideBoy$, and that I also listen to heaps of other random music preferably rock and the occasional horrorcore/underground rap. I suppose it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff (people low-key think I listen to that "typical millenial music"). I also have an interesting Ragdoll kitty who we've named Caesar after Julius Caesar for no apparent reason. 
+I am 18 years old and have recently graduated from highschool. I'm a 3rd generation Australian and my cultural background is Lebanese. I am fluent in both English and Arabic and practicing German. I think maybe the most interesting fact about me is that I listen to heaps of music (mainly rock) and I have like over 6000 songs. I suppose it's interesting because people are always surprised when I tell them the type of music I listen to, mainly because I don't look like I listen to that kind of stuff (people low-key think I listen to that "typical millenial music").
 
 ## **INTEREST IN IT** 
 
