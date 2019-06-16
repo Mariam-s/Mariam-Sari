@@ -8,7 +8,7 @@ I am 18 years old and have recently graduated from highschool. I'm a 3rd generat
 
 ## **INTEREST IN IT** 
 
-My interest in IT is basically everything to do with IT, there's no specific part I like more. The things that pushed me to pursue IT were the friends I hung out with when I was in school. They all had a particular interest in IT and I guess you could say they greatly influenced and introduced me to this amazing subject. I don't have any spectacular IT experience apart from the fact that I am the go-to person at home for all the family's IT needs, but I am enrolled in this course as well as *Introduction to Programming* so I can develop my skills and hopefully learn more about IT and use it with confidence c:. 
+My interest in IT is basically everything to do with IT, there's no specific part I like more. The things that pushed me to pursue IT were the friends I hung out with when I was at school. They all had a particular interest in IT and I guess you could say they greatly influenced and introduced me to this amazing subject. I don't have any spectacular IT experience apart from the fact that I am the go-to person at home for all the family's IT needs, but I am enrolled in this course as well as *Introduction to Programming* so I can develop my skills and hopefully learn more about IT and use it with confidence. 
 
 **Why did you choose to come to RMIT?**
 
